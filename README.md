@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*1a56BDJ4TFiBQ0SYq3919g.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Basil Hanoud</h1>
-<h2 align="left">Mobile App Developer</h2>
+<h1 align="left">Mobile App Developer</h1>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 
