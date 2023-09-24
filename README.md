@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 🌱 I’m currently learning **Back-End**
+- 🌱 I’m currently learning **Back-End Development**
 
 - 🤝 I’m looking to help **You** 
 
